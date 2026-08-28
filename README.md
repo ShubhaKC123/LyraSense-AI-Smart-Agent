@@ -174,7 +174,7 @@ smart-agent/
 
 ## 🧑‍💻 Author
 
-👩‍🎓 **Likhitha J**  
+👩‍🎓 **Shubha KC**  
   
 💡 Passionate about AI, Web Development & Entrepreneurship  
 🌎 Building smart solutions that empower students & developers  
